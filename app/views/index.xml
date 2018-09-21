@@ -1,0 +1,10 @@
+<Alloy>
+	<Window class="container">
+		 <VideoPlayer id="videoPlayer" ns="Ti.Media"
+                     height="300" width="300" backgroundColor="blue" autoplay="false" />
+
+		<Label id="length"/>
+		<Label id="stopTime"/>
+		
+	</Window>
+</Alloy>
